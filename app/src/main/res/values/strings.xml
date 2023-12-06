@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FilmApp</string>
+    <string name="name_of_film">Введите название фильма</string>
+    <string name="button">Найти</string>
+    <string name="titleFilm">Название фильма</string>
+    <string name="description">Описание фильма</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="something_went_wrong">Что-то пошло не так</string>
+</resources>
